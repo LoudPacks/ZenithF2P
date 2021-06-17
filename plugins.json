@@ -1,0 +1,18 @@
+[
+  {
+    "projectUrl": "https://github.com/LoudPacks/ZenithF2P",
+    "provider": "LoudPacks",
+    "name": "Zenith Piles Indicator",
+    "description": "Modified PlayerIndicatorsExtended to support priority caller piles",
+    "id": "zenithpilesindicator-plugin",
+    "releases": [
+      {
+        "date": "2021-06-17",
+        "sha512sum": "D227ECC4AE86BB605C36F6872E58B8EFB373DC76109F9C6490EE96061CE85E94ADC77926EE287EBACCE34E49924E7E083CB6B4C6D0D9350A18759659754D8873",
+        "version": "1.0.0",
+        "url": "https://github.com/LoudPacks/ZenithF2P/blob/main/release/zenithpilesindicator-1.0.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  }
+]
