@@ -4,7 +4,7 @@
     "provider": "LoudPacks",
     "name": "Zenith Piles Indicator",
     "description": "Modified PlayerIndicatorsExtended to support priority caller piles",
-    "id": "zenithpilesindicator-plugin",
+    "id": "Zenith Piles Indicator",
     "releases": [
       {
         "date": "2021-06-17",
